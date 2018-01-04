@@ -1,0 +1,11 @@
+G:\project\ENC文件加硬件锁\getTxtLicense\bin\Debug\netcoreapp2.0\getTxtLicense.deps.json
+G:\project\ENC文件加硬件锁\getTxtLicense\bin\Debug\netcoreapp2.0\getTxtLicense.runtimeconfig.json
+G:\project\ENC文件加硬件锁\getTxtLicense\bin\Debug\netcoreapp2.0\getTxtLicense.runtimeconfig.dev.json
+G:\project\ENC文件加硬件锁\getTxtLicense\bin\Debug\netcoreapp2.0\getTxtLicense.dll
+G:\project\ENC文件加硬件锁\getTxtLicense\bin\Debug\netcoreapp2.0\getTxtLicense.pdb
+G:\project\ENC文件加硬件锁\getTxtLicense\obj\Debug\netcoreapp2.0\getTxtLicense.AssemblyInfo.cs
+G:\project\ENC文件加硬件锁\getTxtLicense\obj\Debug\netcoreapp2.0\getTxtLicense.dll
+G:\project\ENC文件加硬件锁\getTxtLicense\obj\Debug\netcoreapp2.0\getTxtLicense.pdb
+G:\project\ENC文件加硬件锁\getTxtLicense\obj\Debug\netcoreapp2.0\getTxtLicense.csprojResolveAssemblyReference.cache
+G:\project\ENC文件加硬件锁\getTxtLicense\obj\Debug\netcoreapp2.0\getTxtLicense.csproj.CoreCompileInputs.cache
+G:\project\ENC文件加硬件锁\getTxtLicense\obj\Debug\netcoreapp2.0\getTxtLicense.AssemblyInfoInputs.cache

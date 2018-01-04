@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "getTxtLicense": {
+      "commandName": "Project"
+    }
+  }
+}
